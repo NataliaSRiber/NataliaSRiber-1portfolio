@@ -1,0 +1,52 @@
+h1{
+    color:#652939;
+    font-family:fantasy,'Times New Roman', Times, serif ;
+    text-shadow: 2px 2px;
+    background-color: #EDD4DB;
+          }
+  body{
+    background-color:#D496A7 ;
+    font-size: 20px;
+    font-family: fantasy,'Times New Roman', Times, serif;
+    padding: 60px;
+  }
+  h3{
+    color:#9F415A;
+    font-family: fantasy,'Times New Roman', Times, serif ;
+  }
+  h2{
+    color: #481e29;
+    font-family: fantasy,'Times New Roman', Times, serif ;;   
+        }
+ h4 {
+   color:#652939;
+   font-family: fantasy,'Times New Roman', Times, serif ;
+ }       
+  p {
+    font-family: fantasy,'Times New Roman', Times, serif ;
+  }
+  ul {
+    font-family: fantasy,'Times New Roman', Times, serif ;
+    margin:auto;
+    width: 40%
+  }
+  .h{
+    font-size: 2em;
+  }
+ .circled{
+   border-radius: 100%;
+    }
+  .photo{
+    text-align: center;
+          }
+          div{
+            text-align: center;
+          }
+  li:hover{
+    background-color:#EDD4DB;
+  }
+
+  li:active{ 
+    color: #481e29;
+
+  }
